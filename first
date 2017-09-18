@@ -4,3 +4,5 @@ this file contains various commands used on bash terminal
 used to show calendar of current month
 1. man 
 used to modify the program
+3. date
+to show the system date
